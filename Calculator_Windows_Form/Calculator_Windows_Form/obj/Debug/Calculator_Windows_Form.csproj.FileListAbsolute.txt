@@ -1,0 +1,20 @@
+C:\Users\Saddam\source\repos\Calculator_Windows_Form\Calculator_Windows_Form\bin\Debug\Calculator_Windows_Form.exe.config
+C:\Users\Saddam\source\repos\Calculator_Windows_Form\Calculator_Windows_Form\bin\Debug\Calculator_Windows_Form.exe
+C:\Users\Saddam\source\repos\Calculator_Windows_Form\Calculator_Windows_Form\bin\Debug\Calculator_Windows_Form.pdb
+C:\Users\Saddam\source\repos\Calculator_Windows_Form\Calculator_Windows_Form\obj\Debug\Calculator_Windows_Form.csprojAssemblyReference.cache
+C:\Users\Saddam\source\repos\Calculator_Windows_Form\Calculator_Windows_Form\obj\Debug\Calculator_Windows_Form.Form1.resources
+C:\Users\Saddam\source\repos\Calculator_Windows_Form\Calculator_Windows_Form\obj\Debug\Calculator_Windows_Form.Properties.Resources.resources
+C:\Users\Saddam\source\repos\Calculator_Windows_Form\Calculator_Windows_Form\obj\Debug\Calculator_Windows_Form.csproj.GenerateResource.cache
+C:\Users\Saddam\source\repos\Calculator_Windows_Form\Calculator_Windows_Form\obj\Debug\Calculator_Windows_Form.csproj.CoreCompileInputs.cache
+C:\Users\Saddam\source\repos\Calculator_Windows_Form\Calculator_Windows_Form\obj\Debug\Calculator_Windows_Form.exe
+C:\Users\Saddam\source\repos\Calculator_Windows_Form\Calculator_Windows_Form\obj\Debug\Calculator_Windows_Form.pdb
+D:\mini project\Calculator_Windows_Form\Calculator_Windows_Form\bin\Debug\Calculator_Windows_Form.exe.config
+D:\mini project\Calculator_Windows_Form\Calculator_Windows_Form\bin\Debug\Calculator_Windows_Form.exe
+D:\mini project\Calculator_Windows_Form\Calculator_Windows_Form\bin\Debug\Calculator_Windows_Form.pdb
+D:\mini project\Calculator_Windows_Form\Calculator_Windows_Form\obj\Debug\Calculator_Windows_Form.csprojAssemblyReference.cache
+D:\mini project\Calculator_Windows_Form\Calculator_Windows_Form\obj\Debug\Calculator_Windows_Form.Form1.resources
+D:\mini project\Calculator_Windows_Form\Calculator_Windows_Form\obj\Debug\Calculator_Windows_Form.Properties.Resources.resources
+D:\mini project\Calculator_Windows_Form\Calculator_Windows_Form\obj\Debug\Calculator_Windows_Form.csproj.GenerateResource.cache
+D:\mini project\Calculator_Windows_Form\Calculator_Windows_Form\obj\Debug\Calculator_Windows_Form.csproj.CoreCompileInputs.cache
+D:\mini project\Calculator_Windows_Form\Calculator_Windows_Form\obj\Debug\Calculator_Windows_Form.exe
+D:\mini project\Calculator_Windows_Form\Calculator_Windows_Form\obj\Debug\Calculator_Windows_Form.pdb
